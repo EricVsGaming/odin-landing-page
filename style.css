@@ -164,7 +164,31 @@ li {
 
 /* TESTIMONIAL */
 
+.testimonial {
+    background-color: #eaedf7;
+}
 
+.testimonial-item {
+    margin: 0 auto;
+    width: 60vw;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+.testimonial-name {
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.testimonial-quote {
+ font-size: 36px;
+ font-weight: lighter;
+ font-style: italic;
+ color: #1F2937;
+ margin: 20px;
+}
 
 /* TESTIMONIAL */
 
